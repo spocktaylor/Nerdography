@@ -1,9 +1,9 @@
 //package com.your_company_name.app_name;
 
 //Date Created	: 2013-01-01
-//Developer		: Kamalraj
+//Developer	: Spocktaylor
 //Description	: An Encryptor and Decryptitor for large text contents in Android platforms,
-//				      fully optimized for performance. minimum 8 key is required to generate encryption
+//		fully optimized for performance. minimum 8 key is required to generate encryption
 
 import java.io.UnsupportedEncodingException;
 import java.security.InvalidKeyException;
