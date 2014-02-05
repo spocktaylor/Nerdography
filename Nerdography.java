@@ -2,7 +2,7 @@
 
 //Date Created	: 2013-01-01
 //Developer	: Spocktaylor
-//Description	: Encryption and Decryption Algorythm for large text contents in Android platforms,
+//Description	: Encryption and Decryption Algorithm for large text contents in Android platforms,
 //		  fully optimized for performance. minimum 8 key is required to generate encryption
 
 import java.io.UnsupportedEncodingException;
